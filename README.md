@@ -38,9 +38,7 @@ Modifica físicamente la estructura del árbol de forma recursiva, intercambiand
 
 ## Evidencias de Ejecución
 
-A continuación se adjunta la captura de pantalla de la consola de Eclipse, demostrando la compilación exitosa con Maven y el correcto funcionamiento de todas las pruebas unitarias manuales integradas en la clase `Principal.java`:
-
-![Resultados del Laboratorio en Consola](evidencia/image_773a1c.png)
+Para poder visualizar las evidencias vaya ala carpeta llamada EVIDENCIA en esa cartpeta estan todas las captura de eclipse donde se pone a prueba cada uno de los problemas ya resueltos.
 
 ---
 
